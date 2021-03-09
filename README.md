@@ -1,20 +1,18 @@
 # ResearchProjectPauMotta
 
 ## _Index_
--1.	History of AI
--1.1 Deep Blue
--1.2 Monte Carlo Tree Search Method
-
--2.	Immersive experiences and AI
--2.1	Game Façade
--2.2. Doom
--2.3. Left 4 Dead
--2.4. Alien: Isolation
--3.	Designing battle AI
--3.1 Finite-State Machine (FSM)
--3.2 RPG Battle
-
--4.	Bibliography
+- _1.	History of AI_
+- 1.1 Deep Blue
+- 1.2 Monte Carlo Tree Search Method
+- 2.	Immersive experiences and AI
+- 2.1	Game Façade
+- 2.2. Doom
+- 2.3. Left 4 Dead
+- 2.4. Alien: Isolation
+- 3.	Designing battle AI
+- 3.1 Finite-State Machine (FSM)
+- 3.2 RPG Battle
+- 4.	Bibliography
 
 ## _1.History of AI_
 
