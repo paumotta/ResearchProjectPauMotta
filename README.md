@@ -35,8 +35,8 @@ All of the games mentioned used the same method for the AI called finite-state m
 
 In 1997 Deep Blue, a chess machine, won then-reigning World Chess Champion Garry Kasparov in a six-game match in 1997. The machine used an algorithm called minimax which amounted to listing the possible board states and moves it can take in the future and evaluating the value of each of those moves in the context of victory. Which involves minimizing the maximum gain of the opponent by looking as far ahead as it needs to on a decision trees there. There were a number of factors that contributed to this success, including a single-chip chess search engine, a massively parallel system with multiple levels of parallelism, a strong emphasis on search extensions, a complex evaluation function, and effective use of a Grandmaster game database.
 
-Deep Blue:
-![Image14](Img/Deep.jpg) 
+
+![Image14](Img/Deep.jpg) Deep Blue:
 
 
 
