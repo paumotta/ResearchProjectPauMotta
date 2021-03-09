@@ -13,8 +13,8 @@
    - 3.1 Finite-State Machine (FSM)
    - 3.2 RPG Battle
 - _4.	Bibliography_ 
-- 
- ´´´markdown
+
+```markdown
 ## _1.History of AI_
 
 ### _1.1. Deep Blue_
@@ -93,4 +93,4 @@ https://becominghuman.ai/the-perfect-organism-d350c05d8960
 https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867
 https://game8.co/games/Epic-Seven/archives/275491#hl_2
 
-´´´
+```
