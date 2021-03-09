@@ -2,8 +2,8 @@
 
 ## _Index_
 - _1.	History of AI_
-   - 1.1 Deep Blue
-   - 1.2 Monte Carlo Tree Search Method
+   - 1.1 Enemy AI in the 1970s
+   - 1.2 Deep Blue
 - _2.	Immersive experiences and AI_
    - 2.1	Game Façade
    - 2.2. Doom
@@ -16,10 +16,15 @@
 
 ## _1.History of AI_
 
-### _1.1. Deep Blue_
+### _1.1. Enemy AI in the 1970s_
 
-### _1.2. Monte Carlo Tree Search Method_
+Single-player games with AI enemies started to appear as early as the 1970s. Very quickly, many games were redefining the standards of what constitutes game AI. Some of those examples were released for arcade machines, such as Speed Race from Taito (a racing video game), or Qwak (a duck hunting game using a light gun), and Pursuit (an aircraft fighter) both from Atari. Other notable examples are the text-based games released for the first personal computers, such as Hunt the Wumpus and Star Trek, which also had AI enemies.
+Dragon Quest introduced the tactical system for the RPG genre. Over the years, the list of games that has used artificial intelligence to create unique game concepts has expanded.
+All of the games mentioned used the same method for the AI called finite-state machine (FSM). Here, the programmer inputs all the behaviors that are necessary for the computer to challenge the player.
 
+### _1.2. Deep Blue_
+
+In 1997 Deep Blue, a chess machine, won then-reigning World Chess Champion Garry Kasparov in a six-game match in 1997. The machine used an algorithm called minimax which amounted to listing the possible board states and moves it can take in the future and evaluating the value of each of those moves in the context of victory. Which involves minimizing the maximum gain of the opponent by looking as far ahead as it needs to on a decision trees there. There were a number of factors that contributed to this success, including a single-chip chess search engine, a massively parallel system with multiple levels of parallelism, a strong emphasis on search extensions, a complex evaluation function, and effective use of a Grandmaster game database.
 
 ## _2.Ai and immersive gameplay_
 
@@ -79,6 +84,7 @@ For example, the Epic Seven is a mobile game RPG Turn Based Combat where each en
 
 ## _4.Bibliography_
 
+
 https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/
 https://www.youtube.com/watch?v=wh9kpe1Dn8s
 https://www.youtube.com/watch?v=POv1cOX8xUM&t=516s
@@ -91,5 +97,6 @@ https://www.gamasutra.com/blogs/TommyThompson/20171031/308027/The_Perfect_Organi
 https://becominghuman.ai/the-perfect-organism-d350c05d8960
 https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867
 https://game8.co/games/Epic-Seven/archives/275491#hl_2
+https://www.gamedev.net/tutorials/programming/artificial-intelligence/how-artificial-intelligence-has-shaped-the-history-of-gaming-r4782/
 
 
