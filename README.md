@@ -4,15 +4,15 @@
 - _1.	History of AI_
 - 1.1 Deep Blue
 - 1.2 Monte Carlo Tree Search Method
-- 2.	Immersive experiences and AI
+- _2.	Immersive experiences and AI_
 - 2.1	Game Façade
 - 2.2. Doom
 - 2.3. Left 4 Dead
 - 2.4. Alien: Isolation
-- 3.	Designing battle AI
+- _3.	Designing battle AI_
 - 3.1 Finite-State Machine (FSM)
 - 3.2 RPG Battle
-- 4.	Bibliography
+- _4.	Bibliography_
 
 ## _1.History of AI_
 
