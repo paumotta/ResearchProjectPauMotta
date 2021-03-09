@@ -14,6 +14,8 @@
    - 3.2 RPG Battle
 - _4.	Bibliography_ 
 
+
+
 ## _1.History of AI_
 
 ### _1.1. Enemy AI in the 1970s_
@@ -34,7 +36,9 @@ All of the games mentioned used the same method for the AI called finite-state m
 In 1997 Deep Blue, a chess machine, won then-reigning World Chess Champion Garry Kasparov in a six-game match in 1997. The machine used an algorithm called minimax which amounted to listing the possible board states and moves it can take in the future and evaluating the value of each of those moves in the context of victory. Which involves minimizing the maximum gain of the opponent by looking as far ahead as it needs to on a decision trees there. There were a number of factors that contributed to this success, including a single-chip chess search engine, a massively parallel system with multiple levels of parallelism, a strong emphasis on search extensions, a complex evaluation function, and effective use of a Grandmaster game database.
 
 Deep Blue:
-![Image14](Img/DeepB.jpg) 
+![Image14](Img/Deep.jpg) 
+
+
 
 ## _2.Ai and immersive gameplay_
 
@@ -89,6 +93,8 @@ The last item is particularly important, as the alien could technically be close
 
 ![Image19](Img/alien.gif) Alien:
 
+
+
 ## _3.Designing battle AI_
 
 ###_3.1. Finite-state Machine (FSM)_
@@ -116,6 +122,7 @@ The next step is to attack, this can be a normal attack or a skill. Each attacke
 For example, the Epic Seven is a mobile game RPG Turn Based Combat where each enemy have their own type of logic. Despite of the enemy AI will always attack a random target but the unit that is placed in the front has the highest chance of getting attacked. Some enemies will always use a basic attack. If there are a special boss the first attack they will be a skill.
 
 ![Image22](Img/Epic.jpg) Epic Seven:
+
 
 
 ## _4.Bibliography_
