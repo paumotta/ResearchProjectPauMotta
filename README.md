@@ -20,6 +20,9 @@
 
 Single-player games with AI enemies started to appear as early as the 1970s. Very quickly, many games were redefining the standards of what constitutes game AI. Some of those examples were released for arcade machines, such as Speed Race from Taito (a racing video game), or Qwak (a duck hunting game using a light gun), and Pursuit (an aircraft fighter) both from Atari. Other notable examples are the text-based games released for the first personal computers, such as Hunt the Wumpus and Star Trek, which also had AI enemies.
 Dragon Quest introduced the tactical system for the RPG genre. Over the years, the list of games that has used artificial intelligence to create unique game concepts has expanded.
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUwLujdHx9Yk&psig=AOvVaw2dzgEocMpP3inXbpilTB6u&ust=1615404265802000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDR6f33o-8CFQAAAAAdAAAAABAD" width="480" height="360" /> Pursuit for the Atari.
+
 All of the games mentioned used the same method for the AI called finite-state machine (FSM). Here, the programmer inputs all the behaviors that are necessary for the computer to challenge the player.
 
 ### _1.2. Deep Blue_
@@ -85,18 +88,18 @@ For example, the Epic Seven is a mobile game RPG Turn Based Combat where each en
 ## _4.Bibliography_
 
 
-https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/
-https://www.youtube.com/watch?v=wh9kpe1Dn8s
-https://www.youtube.com/watch?v=POv1cOX8xUM&t=516s
-https://www.youtube.com/watch?v=2KQNpQD8Ayo
-https://www.youtube.com/watch?v=WbHMxo11HcU
-https://gamedevacademy.org/construct-2-rpg-tutorial-designing-the-battle-ai/
-https://en.wikipedia.org/wiki/Alien:_Isolation
-https://www.youtube.com/watch?v=Nt1XmiDwxhY
-https://www.gamasutra.com/blogs/TommyThompson/20171031/308027/The_Perfect_Organism_The_AI_of_Alien_Isolation.php
-https://becominghuman.ai/the-perfect-organism-d350c05d8960
-https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867
-https://game8.co/games/Epic-Seven/archives/275491#hl_2
-https://www.gamedev.net/tutorials/programming/artificial-intelligence/how-artificial-intelligence-has-shaped-the-history-of-gaming-r4782/
+[https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/](https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/)
+[https://www.youtube.com/watch?v=wh9kpe1Dn8s](https://www.youtube.com/watch?v=wh9kpe1Dn8s)
+[https://www.youtube.com/watch?v=POv1cOX8xUM&t=516s](https://www.youtube.com/watch?v=POv1cOX8xUM&t=516s)
+[https://www.youtube.com/watch?v=2KQNpQD8Ayo](https://www.youtube.com/watch?v=2KQNpQD8Ayo)
+[https://www.youtube.com/watch?v=WbHMxo11HcU](https://www.youtube.com/watch?v=WbHMxo11HcU)
+[https://gamedevacademy.org/construct-2-rpg-tutorial-designing-the-battle-ai/](https://gamedevacademy.org/construct-2-rpg-tutorial-designing-the-battle-ai/)
+[https://en.wikipedia.org/wiki/Alien:_Isolation](https://en.wikipedia.org/wiki/Alien:_Isolation)
+[https://www.youtube.com/watch?v=Nt1XmiDwxhY](https://www.youtube.com/watch?v=Nt1XmiDwxhY)
+[https://www.gamasutra.com/blogs/TommyThompson/20171031/308027/The_Perfect_Organism_The_AI_of_Alien_Isolation.php](https://www.gamasutra.com/blogs/TommyThompson/20171031/308027/The_Perfect_Organism_The_AI_of_Alien_Isolation.php)
+[https://becominghuman.ai/the-perfect-organism-d350c05d8960](https://becominghuman.ai/the-perfect-organism-d350c05d8960)
+[https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867](https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867)
+[https://game8.co/games/Epic-Seven/archives/275491#hl_2](https://game8.co/games/Epic-Seven/archives/275491#hl_2)
+[https://www.gamedev.net/tutorials/programming/artificial-intelligence/how-artificial-intelligence-has-shaped-the-history-of-gaming-r4782/](https://www.gamedev.net/tutorials/programming/artificial-intelligence/how-artificial-intelligence-has-shaped-the-history-of-gaming-r4782/)
 
 
