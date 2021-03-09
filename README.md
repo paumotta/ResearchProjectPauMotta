@@ -3,6 +3,7 @@
 ##_Index_
 -
 ##_1.History of AI_
+
 ###_1.1. Deep Blue_
 
 ###_1.2. Monte Carlo Tree Search Method_
